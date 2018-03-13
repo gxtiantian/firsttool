@@ -21,6 +21,7 @@ public class MainTest {
         String[] strs = {"123","ab","apple"};
         System.out.println("for a new local update");
         System.out.println("rejected?");
+        System.out.println("for a remote update");
         System.out.println(Arrays.toString(strs));
     }
     

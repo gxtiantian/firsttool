@@ -19,6 +19,7 @@ import com.entity.TrzPledgeApply;
 public class MainTest {
     public static void main(String[] args) throws Exception {
         String[] strs = {"123","ab","apple"};
+        System.out.println("for a remote update");
         System.out.println(Arrays.toString(strs));
     }
     
